@@ -2,6 +2,8 @@
 
 Universidad Privada del Norte
 
+Docente: Ing. Hugo Pérez Quiroz 
+
 Curso: Proyecto Integrador I
 
 Integrantes: 
